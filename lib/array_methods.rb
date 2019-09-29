@@ -8,42 +8,25 @@ end
 nil
 end
 
-
-
-
-
-
-# def find_element_index(array, value_to_find)
-# array.length.times do |counter|
-#   if array[counter] == value_to_find
-#   return counter
-# end 
-   
-# end
-# end 
-
-
-
-
-
 # array.length.times do |counter|
 #   if array[counter] == value_to_find
 #     return counter
-    
-    
-    
-    
-    
-    
-    
-  # 2 parameters, array of integers and a value to find = return index of value that was passed
+      # 2 parameters, array of integers and a value to find = return index of value that was passed
   
   # needs a loop for the given array and compare each value of array to the value given ********
 
 
 def find_max_value(array)
-  # Add your solution here
+  
 end
+
+# find max value 
+
+
+
+
+
+
 
 def find_min_value(array)
   # Add your solution here
